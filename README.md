@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @TheCoderBoy2009
-- 👀 I’m interested in Programming, calisthenics and playing piano
-- 🌱 I’m currently learning how to program embedded rust and I'm learning more about electronics
+- 👀 I’m interested in Programming and calisthenics 
+- 🌱 I’m currently learning networking and Linux via HTB Academy right now
 - 💞️ I’m looking to collaborate on -
 - 📫 How to reach me -
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm only 15 years old and I started a year ago with programming
+- ⚡ Fun fact: Nothing much 
 
 <!---
 TheCoderBoy2009/TheCoderBoy2009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
